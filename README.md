@@ -48,4 +48,4 @@ The changes can be noticed.
 
 ![Decompression Screenshot](https://github.com/nanda-81/Huffman-Coding/blob/main/Screenshot%20(148).png)
 
-![Output file location]()
+![Output file location](https://github.com/nanda-81/Huffman-Coding/blob/main/Screenshot%20(149).png)
