@@ -1,4 +1,4 @@
-## Project Overview
+![Screenshot (150)](https://github.com/user-attachments/assets/d02aa394-c021-4f1d-aa7f-6b1dadf57eb7)## Project Overview
 
 This project demonstrates **file compression and decompression** using the **Huffman Coding algorithm**. Huffman Coding is an efficient method for encoding data using variable-length binary codes based on the frequency of characters. This C++ implementation compresses text files into `.huf` format and decompresses them back into readable `.txt` files.
 
@@ -29,9 +29,9 @@ PS C:\Documents\Huffman Coding Project\Huffman Coding>
 
 The difference in the file size can be noticed.
 
-![Screenshot (150).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b8454294-17bd-4976-a23d-04457ec0e2e3/c395ff13-f4d5-417a-b5b8-1552b35ed7b2/Screenshot_(150).png)
+![Compression Screenshot](C:\Users\nellu\OneDrive\Pictures\Screenshots\Screenshot150.png)
 
-![Screenshot (147).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b8454294-17bd-4976-a23d-04457ec0e2e3/4ac55499-00c6-47f1-9c07-b8647afcfb63/Screenshot_(147).png)
+![Screenshot (147).png]()
 
 ## DECOMPRESSION
 
