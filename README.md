@@ -31,7 +31,7 @@ The difference in the file size can be noticed.
 
 ![Compression Screenshot](C:\Users\nellu\OneDrive\Pictures\Screenshots\Screenshot150.png)
 
-![Screenshot (147).png]()
+![Screenshot (147).png](https://github.com/nanda-81/Huffman-Coding/blob/main/Screenshot%20(147).png)
 
 ## DECOMPRESSION
 
